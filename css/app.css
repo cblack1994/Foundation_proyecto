@@ -1,0 +1,19 @@
+  body {
+
+    background-image: url("../Img/fondo-cocina.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+  .color-fondo {
+
+    background-color: #B9B8D9;
+
+}
+
+  .Posicion-slogan {
+
+    float: right;
+
+}
