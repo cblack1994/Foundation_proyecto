@@ -8,12 +8,42 @@
 
   .color-fondo {
 
-    background-color: #B9B8D9;
+    background-color: #A39EB7;
+
+}
+
+  .color-columna1 {
+
+    background-color: #AD9FE1;
 
 }
 
   .Posicion-slogan {
 
     float: right;
+
+}
+
+  .buscador {
+
+    margin-top: 30px;
+
+}
+
+  .Posicion-buscar {
+
+    margin-left: 20px;
+
+}
+
+  .color-icono {
+
+    background-color: #CE56B6;
+
+}
+
+  .tamaño {
+
+    padding: 0;
 
 }
