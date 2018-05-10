@@ -10,11 +10,20 @@
 
     background-color: #A39EB7;
 
+
 }
+
+
 
   .color-columna1 {
 
     background-color: #AD9FE1;
+
+}
+
+  .color-columna2 {
+
+    background-color: #FF9CEC;
 
 }
 
@@ -42,8 +51,9 @@
 
 }
 
-  .tamaño {
+  .posicion-menu {
 
-    padding: 0;
+    text-align: center;
+
 
 }
