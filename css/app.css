@@ -9,7 +9,7 @@
   .color-fondo {
 
     background-color: #A39EB7;
-
+    
 
 }
 
@@ -55,5 +55,12 @@
 
     text-align: center;
 
+
+}
+
+  .color-historial {
+
+    color: #C378BB;
+    list-style: none;
 
 }
