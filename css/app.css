@@ -4,12 +4,13 @@
     background-repeat: no-repeat;
     background-size: cover;
 
+
 }
 
   .color-fondo {
 
     background-color: #A39EB7;
-    
+
 
 }
 
@@ -19,6 +20,13 @@
 
     background-color: #AD9FE1;
 
+
+}
+
+  .tamaño-columna1 {
+
+    height: 100%;
+
 }
 
   .color-columna2 {
@@ -26,6 +34,8 @@
     background-color: #FF9CEC;
 
 }
+
+
 
   .Posicion-slogan {
 
@@ -35,13 +45,14 @@
 
   .buscador {
 
-    margin-top: 30px;
+    margin-top: 10px;
 
 }
 
   .Posicion-buscar {
 
-    margin-left: 20px;
+    margin-left: 5px;
+
 
 }
 
