@@ -3,13 +3,28 @@
     background-image: url("../Img/fondo-cocina.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 
+
+}
+
+  p {
+
+    text-align: justify;
+
+}
+
+  .estilo-img {
+
+  border: 2px solid white;
 
 }
 
   .color-fondo {
 
-    background-color: #A39EB7;
+    background-color: rgba(70, 84, 163, 0.5);
+    width: 3000px !important;
+
 
 
 }
@@ -21,17 +36,20 @@
     background-color: #AD9FE1;
 
 
+
+
 }
 
   .tamaño-columna1 {
 
     height: 100%;
 
+
 }
 
   .color-columna2 {
 
-    background-color: #FF9CEC;
+    background-color: #F5ABD9;
 
 }
 
@@ -80,5 +98,23 @@
 
     background-color: #C8269B;
     float: right;
+
+}
+
+  .tamaño-img-usuario {
+
+    width: 40px;
+
+}
+
+  .color {
+
+    background-color: #f3f3f3;
+
+}
+
+  .tamaño-contenedor {
+
+
 
 }
